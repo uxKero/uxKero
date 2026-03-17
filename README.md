@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/uxKero/uxkero-portfolio/main/public/yo2.png" width="24%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3600&pause=400&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=980&height=120&lines=hello+hello;I'm+Alan%2C+a+product+designer+and+AI+builder+%E2%9C%A9" width="72%" />
+<img src="./assets/hero-yui.gif" width="24%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3600&pause=400&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=980&height=120&lines=hello+hello;I'm+Alan%2C+Project+Manager+and+Agentic+Builder+%E2%9C%A9" width="72%" />
 <br><br>
 <pre>
-    Product Design - Strategy - AI Builder
-    UX/UI - Digital systems - Business thinking
-    WinUI - React - Product direction - Soft interfaces
+    Project Manager - Product Design - Strategy Lead
+    Agentic Builder - UX/UI - Digital systems - Business thinking
+    React - TypeScript - AI workflows - Product direction
     Anime - terminals - quiet nights - products with soul
 </pre>
 <br>
@@ -20,8 +20,8 @@
 
 i'm alan, from mar del plata, argentina.
 
-i like building digital products that feel soft, clear, intentional, and real.
-my work lives between product vision, ux/ui design, strategy, and the kind of detail that quietly changes everything.
+i work across project management, product design, strategy, and agentic building.
+i like turning business goals into digital products that feel clear, intentional, scalable, and alive.
 
 design, for me, is not decoration.
 it's direction.
@@ -30,44 +30,23 @@ it's direction.
 
 ### currently
 
-- building products with stronger identity
-- exploring ai tools, desktop apps, and thoughtful interaction
-- turning business goals into digital systems people actually enjoy using
-- chasing beauty without losing clarity
-
----
-
-### profile.sys
-
-```txt
-name        :: alan ponce
-role        :: product designer / strategy lead / ai builder
-focus       :: products with soul and systems with purpose
-building    :: interfaces, direction, product thinking
-energy      :: anime glow, terminal lights, soft neon
-```
+- leading product and digital strategy with a strong business lens
+- designing ux/ui systems focused on conversion, retention, and clarity
+- building agentic workflows and ai-assisted products with real utility
+- connecting execution, vision, and product direction across teams and ideas
 
 ---
 
 ### stack
 
-```txt
-design      :: figma, ux systems, product flows
-frontend    :: html, css, javascript, typescript, react
-desktop     :: winui, electron
-strategy    :: roadmaps, product direction, digital business
-ai          :: claude, openai, workflow design
-```
-
----
-
-### atmosphere
-
-```txt
-late windows
-lavender-blue light
-soft rain
-pixel hearts
-beautiful systems
-quiet ambition
-```
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=for-the-badge&logo=openai&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-111827?style=for-the-badge)
+![Design Systems](https://img.shields.io/badge/Design_Systems-111827?style=for-the-badge)
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-111827?style=for-the-badge)
