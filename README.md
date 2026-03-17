@@ -4,7 +4,7 @@
 <tr>
 <td width="72%" align="left" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3600&pause=400&color=A78BFA&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=Hello+hello;I'm+Kero+%E2%9C%A9" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3600&pause=400&color=A78BFA&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=Hello,+hello;I'm+Kero+%E2%9C%A9" />
 
 <pre>
 Project Manager - Product Design - Strategy Lead
@@ -36,7 +36,7 @@ it's direction.
 
 <div align="center">✦•······················•✦•······················•✦</div>
 
-### ✦ stack + tools
+### ✦ Stack + Tools
 
 ![Figma](https://img.shields.io/badge/Figma-F57AC8?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B07CFF?style=for-the-badge&logo=anthropic&logoColor=white)
