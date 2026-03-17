@@ -1,32 +1,44 @@
 <div align="center">
-<img src="./assets/hero-yui.gif" width="24%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=42&duration=3600&pause=400&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=980&height=120&lines=hello+hello;I'm+Alan%2C+Project+Manager+and+Agentic+Builder+%E2%9C%A9" width="72%" />
-<br><br>
-<pre>
-    Project Manager - Product Design - Strategy Lead
-    Agentic Builder - UX/UI - Digital systems - Business thinking
-    React - TypeScript - AI workflows - Product direction
-    Anime - terminals - quiet nights - products with soul
-</pre>
-<br>
 
-[![](https://img.shields.io/badge/portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://uxkero.vercel.app/)
-[![](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ab-alanponce)
+<table>
+<tr>
+<td width="72%" align="left" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3600&pause=400&color=A78BFA&center=false&vCenter=true&multiline=true&repeat=false&width=820&height=120&lines=hello+hello;I'm+Kero+%E2%9C%A9" />
+
+<pre>
+Project Manager - Product Design - Strategy Lead
+Agentic Builder - UX/UI - Digital systems - Business thinking
+React - TypeScript - AI workflows - Product direction
+Anime - terminals - quiet nights - products with soul
+</pre>
+
+</td>
+<td width="28%" align="center" valign="middle">
+<img src="./assets/yuion.gif" width="170" />
+</td>
+</tr>
+</table>
+
 </div>
 
----
+```txt
+~* ------------------------------------------------------ *~
+```
 
 ### hello
 
-i'm alan, from mar del plata, argentina.
+i'm kero, from mar del plata, argentina.
 
-i work across project management, product design, strategy, and agentic building.
+i work across project management, product design, strategy, and agentic building.  
 i like turning business goals into digital products that feel clear, intentional, scalable, and alive.
 
-design, for me, is not decoration.
+design, for me, is not decoration.  
 it's direction.
 
----
+```txt
+~* ------------------------------------------------------ *~
+```
 
 ### currently
 
@@ -35,7 +47,9 @@ it's direction.
 - building agentic workflows and ai-assisted products with real utility
 - connecting execution, vision, and product direction across teams and ideas
 
----
+```txt
+~* ------------------------------------------------------ *~
+```
 
 ### stack
 
