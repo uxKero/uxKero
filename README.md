@@ -22,9 +22,9 @@ Anime - terminals - quiet nights - products with soul
 
 </div>
 
-<div align="center">｡･:*:･ﾟ★,｡･:*:･ﾟ☆</div>
+<div align="center">✦•······················•✦•······················•✦</div>
 
-### ✦ about kero
+### about kero
 
 i'm kero, from mar del plata, argentina.
 
@@ -34,9 +34,9 @@ i like turning business goals into digital products that feel clear, intentional
 design, for me, is not decoration.  
 it's direction.
 
-<div align="center">｡･:*:･ﾟ★,｡･:*:･ﾟ☆</div>
+<div align="center">✦•······················•✦•······················•✦</div>
 
-### ♡ stack + tools
+### stack + tools
 
 ![Figma](https://img.shields.io/badge/Figma-F57AC8?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-B07CFF?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -50,9 +50,9 @@ it's direction.
 ![Design Systems](https://img.shields.io/badge/Design_Systems-C084FC?style=for-the-badge&logoColor=white)
 ![Product Strategy](https://img.shields.io/badge/Product_Strategy-A78BFA?style=for-the-badge&logoColor=white)
 
-<div align="center">｡･:*:･ﾟ★,｡･:*:･ﾟ☆</div>
+<div align="center">✦•······················•✦•······················•✦</div>
 
-### ★ current focus
+### current focus
 
 - leading product and digital strategy with a strong business lens
 - designing ux/ui systems focused on conversion, retention, and clarity
