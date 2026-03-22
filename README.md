@@ -52,6 +52,42 @@ it's direction.
 
 <div align="center">✦•······················•✦•······················•✦</div>
 
+### ✦ 02 · Where I work
+
+currently active at:
+
+| org | role |
+|---|---|
+| **Cultura Interactiva** | Internal Operations & AI Enablement |
+| **EDUCABOT** | AI Experience Lead |
+
+<div align="center">✦•······················•✦•······················•✦</div>
+
+### ✦ 03 · Key Project Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Cultura Interactiva**
+`Internal Operations & AI Enablement`
+
+mapping internal workflows, identifying friction points, and deploying AI-assisted tooling to reduce operational overhead and accelerate team output.
+
+</td>
+<td width="50%" valign="top">
+
+**EDUCABOT**
+`AI Experience Lead`
+
+leading the design of AI-powered educational experiences — from concept to interface — focused on meaningful interactions for kids, teachers, and institutions.
+
+</td>
+</tr>
+</table>
+
+<div align="center">✦•······················•✦•······················•✦</div>
+
 ### ✦ Current focus
 
 - leading product and digital strategy with a strong business lens
